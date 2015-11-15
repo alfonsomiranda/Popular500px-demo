@@ -19,6 +19,7 @@ In root folder of project running on the terminal
     Popular500px.xcworkspace
 
 Implementation.
+--------------
 
 1. Architecture VIPER.
 VIPER is an application of Clean Architecture to iOS apps, which implement the Clean Architecture, as described by Uncle Bob. The word VIPER is a backronym for View, Interactor, Presenter, Entity and Routing. For more info: https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/
